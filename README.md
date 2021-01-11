@@ -1,7 +1,7 @@
 
 #  Online Store App with Swift
 
-
+## If you want to use the app clone it, and install the pods. 
 ## 1. Introduction  
   The application represents an online shopping application and was designed to present a solution that allows users to search, add to cart and buy different items presented by the seller.  
   The items are contained inside different categories, and each item can provide photos, the name, the price and the description of the product.  
@@ -12,7 +12,7 @@
   The functionalities of the applications are: register and login to create a shopping cart and to checkout, searching items by a term from either name or description, adding a new item and editing the fields that describe a user: first name, last name and address.
   
   ## Here's the GIF
-   <img src="store.gif" width="400" height="790">
+   ![Store App](Documentation/store.gif)
 
 ## 3. Implementation
   The application uses Swift, Firebase for storage and Algolia for allowing the user to search for items.  
